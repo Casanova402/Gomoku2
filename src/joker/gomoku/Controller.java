@@ -56,6 +56,7 @@ public class Controller {
         // TODO Auto-generated method stub
         Controller controller = new Controller();
         controller.initStarter();
+        System.out.println("Hello World");
     }
 
     void initStarter(){
